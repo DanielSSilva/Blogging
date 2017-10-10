@@ -1,0 +1,11 @@
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\bin\Debug\netcoreapp2.0\MessageSender.deps.json
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\bin\Debug\netcoreapp2.0\MessageSender.runtimeconfig.json
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\bin\Debug\netcoreapp2.0\MessageSender.runtimeconfig.dev.json
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\bin\Debug\netcoreapp2.0\MessageSender.dll
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\bin\Debug\netcoreapp2.0\MessageSender.pdb
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.csprojResolveAssemblyReference.cache
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.csproj.CoreCompileInputs.cache
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.AssemblyInfoInputs.cache
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.AssemblyInfo.cs
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.dll
+F:\danielSilva\Blogging_GIT\Blogging\EmployeeSignalR\MessageSender\obj\Debug\netcoreapp2.0\MessageSender.pdb

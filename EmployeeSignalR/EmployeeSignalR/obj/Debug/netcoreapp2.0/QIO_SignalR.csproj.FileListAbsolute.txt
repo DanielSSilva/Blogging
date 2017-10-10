@@ -1,0 +1,11 @@
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.csprojResolveAssemblyReference.cache
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.csproj.CoreCompileInputs.cache
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.AssemblyInfoInputs.cache
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.AssemblyInfo.cs
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\bin\Debug\netcoreapp2.0\QIO_SignalR.deps.json
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\bin\Debug\netcoreapp2.0\QIO_SignalR.runtimeconfig.json
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\bin\Debug\netcoreapp2.0\QIO_SignalR.runtimeconfig.dev.json
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\bin\Debug\netcoreapp2.0\QIO_SignalR.dll
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\bin\Debug\netcoreapp2.0\QIO_SignalR.pdb
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.dll
+F:\danielSilva\GIT_QIO_SIGNALR\QIO_SignalR\QIO_SignalR\obj\Debug\netcoreapp2.0\QIO_SignalR.pdb
